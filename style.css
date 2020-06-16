@@ -1,0 +1,81 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+.uno{
+    position: absolute;
+    z-index: 10;
+}
+
+.dos{
+    position: absolute;
+    z-index: 8;
+}
+
+.tres{
+    position: absolute;
+    z-index: 9;
+}
+
+.cuatro{
+    position: absolute;
+    z-index: 7;
+}
+.cinco{
+    position: absolute;
+    z-index: 6;
+}
+
+.seis{
+    position: absolute;
+    z-index: 5;
+}
+
+.siete{
+    position: absolute;
+    z-index: 11;
+}
+
+.ocho{
+    position: absolute;
+    z-index: 3;
+}
+
+.nueve{
+    position: absolute;
+    z-index: 2;
+}   
+ .centrar{
+     display: flex;
+     justify-content: center;
+ }
+#tiempo1{
+     animation-delay: 0s;
+}
+#tiempo2{
+    animation-delay: .5s;
+}
+#tiempo3{
+    animation-delay: 1s;
+}
+#tiempo4{
+    animation-delay: 1.5s;
+}
+#tiempo5{
+    animation-delay: 2s;
+}
+#tiempo6{
+    animation-delay: 2.5s;
+}
+#tiempo7{
+    animation-delay: 3s;
+}
+#tiempo8{
+    animation-delay: 3.5s;
+}
+#tiempo9{
+    animation-delay: 4s;
+}
+#tiempo10{
+    animation-delay: 4.5s;
+}
